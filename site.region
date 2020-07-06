@@ -7,7 +7,7 @@
     {squarespace-headers}
   </head>
   <body id="{squarespace.page-id}" class="{squarespace.page-classes}">
-
+    <p>Hello, world!</p>
     <header>
       {.section website}
         <h1>
@@ -19,7 +19,6 @@
             {.end}
           </a>
         </h1>
-        
         {.section siteTagLine}
           <p>{@}</p>
         {.end}
